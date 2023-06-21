@@ -93,8 +93,8 @@
     background-repeat: no-repeat;
     background-size: cover;
     padding: 1rem;
-    margin-left: 6rem;
-    margin-right: 6rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
     color: black;
     font-size: xx-large;
     font-weight: bolder;
@@ -148,8 +148,8 @@
 }
 
 .sectionSplit{
-    margin-left: 6rem;
-    margin-right: 6rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
     padding: 2rem;
@@ -166,8 +166,8 @@
 
 .manufacturers{
     display: grid;
-    margin-left: 6rem;
-    margin-right: 6rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
     text-align: center;
@@ -258,8 +258,8 @@
 
 .customers{
     display: grid;
-    margin-left: 6rem;
-    margin-right: 6rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
     text-align: center;
@@ -393,6 +393,8 @@
         .form{
             display: grid;
             justify-items: center;
+            margin-left: 6rem;
+            margin-right: 6rem;
         }
 
         .inputs{
@@ -428,13 +430,22 @@
             align-items: center;
         }
 
+        .sectionSplit{
+            margin-left: 6rem;
+            margin-right: 6rem;
+        }
+
         .manufacturers{
             grid-template-columns: repeat(2, 1fr);
+            margin-left: 6rem;
+            margin-right: 6rem;
         }
 
 
         .customers{
             grid-template-columns: repeat(2, 1fr);
+            margin-left: 6rem;
+            margin-right: 6rem;
         }
 
         .customerLogo1, .customerLogo3{
