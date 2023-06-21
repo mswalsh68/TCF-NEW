@@ -384,6 +384,11 @@
             font-weight: bolder;
         }
 
+        .headline{
+            margin-left: 6rem;
+            margin-right: 6rem;
+        }
+
 
         .tagline{
             display: grid;
