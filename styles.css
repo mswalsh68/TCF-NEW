@@ -363,6 +363,7 @@
     display: grid;
     place-items: 'center'; 
     margin: 1rem;
+    background-image: url('pictures/AccuTech.jpg');
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
@@ -374,6 +375,7 @@
     display: grid;
     place-items: 'center'; 
     margin: 1rem;
+    background-image: url('pictures/ADI.png');
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
@@ -385,6 +387,7 @@
     display: grid;
     place-items: 'center'; 
     margin: 1rem;
+    background-image: url('pictures/Anixter.png');
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
@@ -396,6 +399,7 @@
     display: grid;
     place-items: 'center'; 
     margin: 1rem;
+    background-image: url('pictures/Electric-Supply.jpg');
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
@@ -407,6 +411,7 @@
     display: grid;
     place-items: 'center'; 
     margin: 1rem;
+    background-image: url('pictures/Gexpro.jpg');
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
@@ -418,6 +423,7 @@
     display: grid;
     place-items: 'center'; 
     margin: 1rem;
+    background-image: url('pictures/Graybar.png');
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
@@ -429,6 +435,7 @@
     display: grid;
     place-items: 'center'; 
     margin: 1rem;
+    background-image: url('pictures/Omni-Cable.png');
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
@@ -440,6 +447,7 @@
     display: grid;
     place-items: 'center'; 
     margin: 1rem;
+    background-image: url('pictures/Rexel.png');
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
@@ -451,6 +459,7 @@
     display: grid;
     place-items: 'center'; 
     margin: 1rem;
+    background-image: url('pictures/Silmar.png');
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
@@ -462,6 +471,7 @@
     display: grid;
     place-items: 'center'; 
     margin: 1rem;
+    background-image: url('pictures/techbtc.png');
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
@@ -473,6 +483,7 @@
     display: grid;
     place-items: 'center'; 
     margin: 1rem;
+    background-image: url('pictures/Wesco.jpg');
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
