@@ -273,7 +273,7 @@
 }
 
 
-.customerLogo1:after{
+.customerLogo1::after{
     content:'';
     display: grid;
     place-items: 'center'; 
@@ -285,7 +285,7 @@
     height: 10rem;
 }
 
-.customerLogo2:after{
+.customerLogo2::after{
     content:'';
     display: grid;
     place-items: 'center'; 
@@ -297,7 +297,7 @@
     height: 10rem;
 }
 
-.customerLogo3:after{
+.customerLogo3::after{
     content:'';
     display: grid;
     place-items: 'center'; 
@@ -309,7 +309,7 @@
     height: 10rem;
 }
 
-.customerLogo4:after{
+.customerLogo4::after{
     content:'';
     display: grid;
     place-items: 'center'; 
@@ -321,7 +321,7 @@
     height: 10rem;
 }
 
-.customerLogo5:after{
+.customerLogo5::after{
     content:'';
     display: grid;
     place-items: 'center'; 
@@ -358,7 +358,7 @@
     text-align: center;
 }
 
-.distributor1{
+.distributor1::after{
     content:'';
     display: grid;
     place-items: 'center'; 
@@ -370,7 +370,7 @@
     height: 10rem;
 }
 
-.distributor2{
+.distributor2::after{
     content:'';
     display: grid;
     place-items: 'center'; 
@@ -382,7 +382,7 @@
     height: 10rem;
 }
 
-.distributor3{
+.distributor3::after{
     content:'';
     display: grid;
     place-items: 'center'; 
@@ -394,7 +394,7 @@
     height: 10rem;
 }
 
-.distributor4{
+.distributor4::after{
     content:'';
     display: grid;
     place-items: 'center'; 
@@ -406,7 +406,7 @@
     height: 10rem;
 }
 
-.distributor5{
+.distributor5::after{
     content:'';
     display: grid;
     place-items: 'center'; 
@@ -418,7 +418,7 @@
     height: 10rem;
 }
 
-.distributor6{
+.distributor6::after{
     content:'';
     display: grid;
     place-items: 'center'; 
@@ -430,7 +430,7 @@
     height: 10rem;
 }
 
-.distributor7{
+.distributor7::after{
     content:'';
     display: grid;
     place-items: 'center'; 
@@ -442,7 +442,7 @@
     height: 10rem;
 }
 
-.distributor8{
+.distributor8::after{
     content:'';
     display: grid;
     place-items: 'center'; 
@@ -454,7 +454,7 @@
     height: 10rem;
 }
 
-.distributor9{
+.distributor9::after{
     content:'';
     display: grid;
     place-items: 'center'; 
@@ -466,7 +466,7 @@
     height: 10rem;
 }
 
-.distributor10{
+.distributor10::after{
     content:'';
     display: grid;
     place-items: 'center'; 
@@ -478,7 +478,7 @@
     height: 10rem;
 }
 
-.distributor11{
+.distributor11::after{
     content:'';
     display: grid;
     place-items: 'center'; 
