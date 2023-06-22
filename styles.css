@@ -491,6 +491,62 @@
     height: 10rem;
 }
 
+.occ1 a{
+    color: #f60026;
+}
+.occ1 a:hover{
+    color: #0039fe;
+}
+
+.occ2 a{
+    color: #f60026;
+}
+.occ2 a:hover{
+    color: #0039fe;
+}
+
+.occ3 a{
+    color: #f60026;
+}
+.occ3 a:hover{
+    color: #0039fe;
+}
+
+.occ4 a{
+    color: #f60026;
+}
+.occ4 a:hover{
+    color: #0039fe;
+}
+
+.occ5 a{
+    color: #f60026;
+}
+.occ5 a:hover{
+    color: #0039fe;
+}
+
+.occ6 a{
+    color: #f60026;
+}
+.occ6 a:hover{
+    color: #0039fe;
+}
+
+.occ7 a{
+    color: #f60026;
+}
+.occ7 a:hover{
+    color: #0039fe;
+}
+
+.occ8 a{
+    color: #f60026;
+}
+.occ8 a:hover{
+    color: #0039fe;
+}
+
 .occ1::after{
     content:'';
     display: grid;
