@@ -491,6 +491,10 @@
             padding: 2rem;
             grid-template-columns: repeat(3, 1fr);
             background-color:rgb(204, 228, 238);
+            position: absolute;
+            left: 0;
+            right: 0;
+            bottom: 0;
         }
         
         .rights{
@@ -500,10 +504,6 @@
         }
 
         .footer a{
-            position: absolute;
-            bottom: 0;
-            left: 0;
-            right: 0;
             grid-column: 2/3;
             display: grid;
             text-align: center;
