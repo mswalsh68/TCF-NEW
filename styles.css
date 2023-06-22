@@ -456,6 +456,11 @@
             margin-right: 6rem;
         }
 
+        .info{
+            margin-left: 6rem;
+            margin-right: 6rem;
+        }    
+
         .manufacturers{
             grid-template-columns: repeat(2, 1fr);
             margin-left: 6rem;
