@@ -13,6 +13,7 @@ body{
     height: auto;
     background-color: white;
     color: #0039fe;
+    background-color: white;
 }
 
 .navbar-expand-md{
@@ -64,6 +65,8 @@ body{
     display: grid;
     justify-items: center;
     padding: 1rem;
+    background-color: white;
+
 }
 
 
@@ -75,6 +78,8 @@ body{
     padding: 1rem;
     color: #0039fe;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: white;
+
 }
 
 .headline{
