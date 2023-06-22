@@ -491,6 +491,102 @@
     height: 10rem;
 }
 
+.occ1::after{
+    content:'';
+    display: grid;
+    place-items: 'center'; 
+    margin: 1rem;
+    background-image: url('pictures/OCC\ DX-Series_Plenum-copy-768x515.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    height: 10rem;
+}
+
+.occ2::after{
+    content:'';
+    display: grid;
+    place-items: 'center'; 
+    margin: 1rem;
+    background-image: url('pictures/OCC\ Zone-Distribution-Enclosure.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    height: 10rem;
+}
+
+.occ3::after{
+    content:'';
+    display: grid;
+    place-items: 'center'; 
+    margin: 1rem;
+    background-image: url('pictures/OCC\ mdis.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    height: 10rem;
+}
+
+.occ4::after{
+    content:'';
+    display: grid;
+    place-items: 'center'; 
+    margin: 1rem;
+    background-image: url('pictures/OCC\ Express.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    height: 10rem;
+}
+
+.occ5::after{
+    content:'';
+    display: grid;
+    place-items: 'center'; 
+    margin: 1rem;
+    background-image: url('pictures/OCC\ slimline.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    height: 10rem;
+}
+
+.occ6::after{
+    content:'';
+    display: grid;
+    place-items: 'center'; 
+    margin: 1rem;
+    background-image: url('pictures/OCC\ Industrial\ RJ\ 45.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    height: 10rem;
+}
+
+.occ7::after{
+    content:'';
+    display: grid;
+    place-items: 'center'; 
+    margin: 1rem;
+    background-image: url('pictures/OCC\ MARS.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    height: 10rem;
+}
+
+.occ8::after{
+    content:'';
+    display: grid;
+    place-items: 'center'; 
+    margin: 1rem;
+    background-image: url('pictures/OCC\ KMJ\ UMJ.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    height: 10rem;
+}
+
 
 
 @media screen and (min-width: 925px){
