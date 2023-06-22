@@ -102,7 +102,6 @@
 
 }
 
-
 .inputs{
     display: grid;
     padding: .25rem;
@@ -155,6 +154,23 @@
     padding: 2rem;
     text-align: center;
     background: radial-gradient(#0039fe, #0023a0);
+    background-size: contain;
+    background-repeat: no-repeat;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    place-items: center;
+    word-wrap: break-word;
+}
+
+.sectionSplit{
+    margin-left: 3rem;
+    margin-right: 3rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    padding: 2rem;
+    text-align: center;
+    background-color: aliceblue;
     background-size: contain;
     background-repeat: no-repeat;
     color: white;
