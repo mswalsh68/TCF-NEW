@@ -500,6 +500,10 @@
         }
 
         .footer a{
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
             grid-column: 2/3;
             display: grid;
             text-align: center;
