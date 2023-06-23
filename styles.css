@@ -4,8 +4,6 @@
     box-sizing: border-box;
 }
 
-
-
 .navbar{
     height: auto;
     background-color: white;
@@ -649,6 +647,83 @@
     background-position: center;
     height: 15rem;
 }
+
+.sumitomo1 a{
+    color: #0039fe;
+}
+.sumitomo1 a:hover{
+    color: #f60026;
+}
+
+.sumitomo2 a{
+    color: #0039fe;
+}
+.sumitomo2 a:hover{
+    color: #f60026;
+}
+
+.sumitomo3 a{
+    color: #0039fe;
+}
+.sumitomo3 a:hover{
+    color: #f60026;
+}
+
+.sumitomo4 a{
+    color: #0039fe;
+}
+.sumitomo4 a:hover{
+    color: #f60026;
+}
+
+.sumitomo1::after{
+    content:'';
+    display: grid;
+    place-items: 'center'; 
+    margin: 1rem;
+    background-image: url('pictures/Sumitomo\ Q102\ CA.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    height: 15rem;
+}
+
+.sumitomo2::after{
+    content:'';
+    display: grid;
+    place-items: 'center'; 
+    margin: 1rem;
+    background-image: url('pictures/Sumitomo\ Q502SS.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    height: 15rem;
+}
+
+.sumitomo3::after{
+    content:'';
+    display: grid;
+    place-items: 'center'; 
+    margin: 1rem;
+    background-image: url('pictures/Lynx-Customfit-Splice-On-Connector-2.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    height: 15rem;
+}
+
+.sumitomo4::after{
+    content:'';
+    display: grid;
+    place-items: 'center'; 
+    margin: 1rem;
+    background-image: url('pictures/Sumitomo\ FC-8R\ Cleaver.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    height: 15rem;
+}
+
 
 
 
