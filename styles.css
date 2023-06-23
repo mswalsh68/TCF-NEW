@@ -187,6 +187,10 @@
     word-wrap: break-word;
 }
 
+.info li{
+    text-align: left;
+}
+
 .wrapper{
     display: grid;
     margin-left: 3rem;
