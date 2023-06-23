@@ -74,7 +74,8 @@
     color: #0039fe;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     background-color: white;
-
+    font-weight: bolder;
+    font-style: italic;
 }
 
 .headline{
