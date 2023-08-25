@@ -150,7 +150,6 @@
     background-color: black;
     color: white;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-
 }
 
 .sectionSplit{
@@ -347,24 +346,21 @@
 .footer{
     display: grid;
     padding: 2rem;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(2, 1fr);
     background-color:rgb(204, 228, 238);
 }
 
 .rights{
-    grid-column: 1/2;
     display: grid;
     text-align: center;
 }
 
 .footer a{
-    grid-column: 2/3;
     display: grid;
     text-align: center;
 }
 
 .creator{
-    grid-column: 3/4;
     display: grid;
     text-align: center;
 }
@@ -1019,7 +1015,7 @@
         .footer{
             display: grid;
             padding: 2rem;
-            grid-template-columns: repeat(3, 1fr);
+            grid-template-columns: repeat(4, 1fr);
             background-color:rgb(204, 228, 238);
             position: relative;
             left: 0;
@@ -1028,19 +1024,16 @@
         }
         
         .rights{
-            grid-column: 1/2;
             display: grid;
             text-align: center;
         }
 
         .footer a{
-            grid-column: 2/3;
             display: grid;
             text-align: center;
         }
 
         .creator{
-            grid-column: 3/4;
             display: grid;
             text-align: center;
         }
